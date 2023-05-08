@@ -1,0 +1,1 @@
+Currently, all BikeTripPlanner related repositories are still at the user account [langbein-daniel](https://github.com/langbein-daniel/BikeTripPlanner#biketripplanner). In the near future, they might be moved here.
